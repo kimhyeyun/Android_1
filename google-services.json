@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104822390912",
+    "firebase_url": "https://sentipj-e248d.firebaseio.com",
+    "project_id": "sentipj-e248d",
+    "storage_bucket": "sentipj-e248d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104822390912:android:58cfce62d524c6b00d2665",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104822390912-oo07rim15ik5a41ot5lf87mcuakulhg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uo3zFXy3XFgjDWf4zz7fElXkNqvdnoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104822390912-oo07rim15ik5a41ot5lf87mcuakulhg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
